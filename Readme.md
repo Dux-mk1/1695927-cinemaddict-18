@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Aleksandr Sundukov](https://up.htmlacademy.ru/ecmascript/18/user/1695927).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://up.htmlacademy.ru/ecmascript/18/user/144641).
 
 ---
 
